@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap CSS -->
+    <link rel = "stylesheet" 
+    href = "https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" 
+    integrity = "sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" 
+    crossorigin = "anonymous">
+
+    <title>Get Involved</title>
+    <style>
+      *{
+        font-family: 'Segoe UI','Segoe WP',Tahoma,Arial,sans-serif;
+        box-sizing: border-box;
+      }
+      body{
+        background-color: mediumpurple;
+        font-family: cursive;
+      }
+      .row{
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+      }
+      .card {
+        background-color: rgba(230, 230, 250, 0.651);
+        padding: 50px;
+        margin-top: 50px;
+        justify-content: center;
+      }
+
+      blockquote{
+            border-left-color: rgb(143, 61, 102);
+            border-left: 5px solid #cc0066;
+            background-image: initial;
+            background-color: rgb(234, 198, 241);
+            padding-left: 100px;
+            padding-right: 100px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            position: relative;
+            font-family:itc_avant_garde_gothic_ltM;
+            font-style: italic;
+            font-size: 25px;
+            margin-left: 50px;
+            margin-right: 50px;
+            border-radius: 15px;
+            box-shadow: rgb(130 124 114) 4px 4px 10px;
+        }
+
+      *{
+        box-sizing: border-box;
+      }
+
+      .grid-container4 {
+            display: grid;
+            grid-template-columns: 1fr 1fr ;
+            grid-gap: 40px;
+            box-sizing: initial;
+            box-shadow: lightblue; 
+        }
+
+      #form_card{
+        position: relative;
+        background-color:rgb(234, 198, 241);
+        padding-right: 15px;
+        padding-left: 15px;
+        border-radius: 10px;
+        box-shadow: rgb(130 124 114) 4px 4px 10px;
+      }
+
+      .get_involved{
+        color:rgb(61, 110, 135);
+        background-color: rgb(150, 217, 250);
+        border-color: rgb(130, 225, 244);
+        padding: 4px;
+        border-radius: 10px;
+        border-bottom: 1px solid transparent;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+        font-weight: bold;
+        font-size: 28px;
+        padding-left: 50px;
+      }
+      #donate-form{
+        margin-right: 4px;
+        padding: 40px;
+        margin-left: -40px;
+        font-size: 25px;
+      }
+      .form-group{
+        padding-left: 15px;
+        padding-right: 25px;
+        margin-bottom: 25px;
+        font-size: 25px;
+        font-weight: bold;
+      }
+      .btn{
+        color:rgb(220, 218, 215);
+        background-color:rgb(61, 118, 166);
+        border-color: rgb(62, 107, 148);
+        border-radius: 5px;
+        padding:6px 12px;
+        text-align: center;
+        vertical-align: center;
+      }
+      @media screen and (max-width: 992px) {
+        .grid-container4 {   
+            display: block;}
+        }
+        
+    </style>
+</head>
+<body>
+  <p><strong>&nbsp;</strong></p>
+  <p><strong>&nbsp;</strong></p>
+    <div class="row">
+        <div class="grid-container4">
+
+          <div class="grid-child-4">
+            <blockquote>
+              <p>Donate</p>
+              <p>STRAW India is not a Government funded organization. We therefore invite you to become a generous donor to ensure that our free humane education resources are made available to as many school going children across the length and breadth of India and also its remotest corners. We depend on donations to continuously expand our humane education programs, train humane educators and to create newer humane education contents, relevant for India. Our aim is to reach out to every student, during their impressionable years, year after year, so that they eventually grow up to be compassionate citizens to create a humane India.</p>
+            </blockquote>
+            <p><strong>&nbsp;</strong></p>
+            <blockquote >
+              <p>Donate Toda for a More Humane & Compasssionate world.</p>
+            </blockquote>
+            <p><strong>&nbsp;</strong></p>
+            <blockquote>
+              <p> Further, your support would enable us to keep our 24x7 Animal Helpline active, along with carrying out community outreach programs for the welfare of animals and protection of the environment.</p>
+              <P>Your contribution on a monthly, quarterly or yearly basis would help us to plan and sustain our medium and long-term projects and programs.</P>
+              <p>Irrespective of the size of your donation, we would keep you updated on how it was utilized, along with the impact realized with photographs, videos and details of the impacted beneficiaries.</p>
+            </blockquote>
+            <p><strong>&nbsp;</strong></p>
+            <blockquote>
+              <p>Please make your donation now by completing our online contribution form. You could choose the suitable method for transferring the Donation amount to STRAW. Once we have received your donation we will send you the receipt along with the confirmation email.</p>
+              <p><srtong>Note:</srtong><em> All donations are entitled to exemption under section 80G of the Income Tax Act of 1961 vide Certificate No. DIT(E)2011-2012/S-6461/520. That means that, donations to STRAW qualify for 50% tax exemption in India. For instance, if you donate INR 1,000/- to STRAW, you could claim INR 500/- deduction from your taxable income.</em></p>
+              <p>STRAW India is a registered New Delhi, INDIA based non-profit organization that is recognized and certified by the Animal Welfare Board of India (AWBI). It is a former member society of the World Animal Protection (WSPA) and an active member of the Federation of Indian Animal Protection Organizations (FIAPO). Our Registration details are as follows:</p>
+              <p>
+                <ul>
+                  <li>Trust Registration No.: 879/IV</li>
+                  <li>Animal Welfare Board of India (AWBI) - RECOG CODE No: ND - 036/02
+                    </li>
+                    <li>12A(a) of Income Tax Act, 1961 No.: DIT(E)2002-03/S-3186/02/729</li>
+                    <li>Govt. of India, Income Tax Department Permanent Account No. (PAN): AAETS7166D</li>
+                    <li>Donation exempt u/s.80G (5) (VI) of Income Tax Act. 1961: DIT(E)/2011-12/S-6461/520</li>
+                </ul>
+              </p>
+            </blockquote>
+          </div>
+
+          <div id="donate-form" >
+            <div id="form_card" class="grid-child-4">
+              <div class="get_involved">
+              <p>Get Involoved</p>
+            </div>
+  
+            <div class="div-form">
+              <form target="_self">
+                <div>
+                    <label>
+                      <span class="required" title="This field is required">*</span>
+                      "I am donating as an:"
+                    </label>
+                    <div class="form-group">
+                      <span id="donor_type" class="horiz-checkbox"></span> 
+                      <input id="type0" type="radio" name="donor type" value="I" checked="checked">
+                      <label for="type0">Individual</label>
+  
+                      <input id="type1" type="radio" name="donor type" value="0">
+                      <label for="type1">Orgainsation</label>
+                    </div>
+                    <p><strong>&nbsp;</strong></p>
+                </div>
+                <!-- From starts here -->
+                <div class="panel-body">
+                  <div class="empty" style="dispay:none;"></div>
+  
+                  <div class="form-group">
+                    <span id="FNAME" style="font-weight: bold;" >
+                      <span class="required" text="This field is required">*</span>
+                       First Name:</span>
+                  <input name="fname" type="text" maxlength="64" id="FName" class="form-control"> 
+                    </div>
+  
+                  <div class="form-group">
+                    <span id="LNAME" style="font-weight: bold;" >
+                      <span class="required" text="This field is required">*</span> 
+                      Last Name:</span>
+                  <input name="lname" type="text" maxlength="64" id="LName" class="form-control">
+                </div>
+  
+                <div class="form-group">
+                  <span id="Email" style="font-weight: bold;" >
+                    <span class="required" text="This field is required">*</span> 
+                    Email:</span>
+                  <input name="email" type="text" maxlength="64" id="Email" class="form-control">
+                </div>
+  
+                <div class="form-group">
+                  <span id="PHONENO" style="font-weight: bold;" >
+                    <span class="required" text="This field is required">*</span> 
+                    Phone No.:</span>
+                  <input name="Phoneno" type="text" maxlength="32" id="PhoneNo" class="form-control" placeholder="Mobile No / Phone No. ">
+                </div>
+  
+                <div class="form-group">
+                  <span id="ADDRESSS" style="font-weight: bold;" >
+                    <span class="required" text="This field is required"> &nbsp; </span> 
+                    Adddress:</span>
+                  <input name="address1" type="text" maxlength="64" id="Address1" class="form-control" placeholder="Address Line 1"> 
+                  <input name="address2" type="text" maxlength="64" id="Address2" class="form-control" placeholder="Address Line 2">
+                </div>
+  
+                <div class="form-group">
+                <label for=" city">
+                  <span class="required" title=" This field is required">*</span>  City:</label>
+                <input name="city" type="text" maxlength="64" id="CITY" class="form-control">
+              </div>
+  
+                <div class="form-group">
+                  <label for="state/province">&nbsp; State / Province: </label>
+                  <input name="State" type="text" maxlength="64" id="STATE" class="form-control">
+                </div>
+  
+                <div class="form-group">
+                  <label for="postalcode" >Postal Code:</label>
+                  <input name="postalcode" type="text" maxlength="32" id="POSTALCODE" class="form-control">
+                </div>
+  
+                <div class="form-group">
+                  <label for="donation frequency">
+                    <span class="required" title=" This field is required">*</span>  Donation Frequency:</label>
+                    <div class="form-group">
+                      <select name="frequency" id="donatefreq" class="form-control">
+                        <option selected="select" value="0">One-Time</option>
+                        <option value="M">Monthly</option>
+                        <option value="Q">Quaterly</option>
+                        <option value="S">Semi-annually</option>
+                        <option value="A">Annually</option>
+                      </select>
+                    </div>
+                </div>
+  
+                <div class="form-group">
+                  <label for="paymentmethod">
+                      <span class="required" title=" This field is required">*</span>  Payment Method:</label>
+                      <select name="payment" id="PAYMENT" class="form-control">
+                        <option value="SELECT">--Select--</option>
+                        <option value="CC">Credit Card</option>
+                        <option value="DC">Debit Card</option>
+                        <option value="NB">Net Banking</option>
+                        <option value="UPI">BHIM UPI</option>
+                        <option value="CASHCARD">e-Wallet</option>
+                        <option value="CH">Check / Demand Draft</option>
+                      </select>
+                </div>
+  
+                <div class="form-group">
+                  <label for="amount">
+                    <span class="required" title=" This field is required">*</span> Amount:
+                  </label><input name="Amount" type="text" maxlength="64" id="AMOUNT" class="form-control">
+                  </div>
+                  <p style="font-size:smaller;font-style:italic; padding-top:5px;padding-bottom:2px;"><strong>Note: </strong>Currently, international cards are not accepted.</p>
+  
+                  <div class="form-group">
+                    <div class="checkbox">
+                      <label>
+                        <input name="checkbox" type="checkbox" id="CHECKBOX">
+                        Yes, I would like to receive the update from STRAW on how my donation has helped.
+                      </label>
+                    </div>
+                  </div>
+                  <input type="submit" name="submit" value="Proceed" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$CPHMaster$BtnSubmit&quot;, &quot;&quot;, true, &quot;VG1&quot;, &quot;&quot;, false, false))" id="CPHMaster_BtnSubmit" class="btn btn-primary btn-lg">
+                  <p><strong>&nbsp;</strong></p>
+            </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+      <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+      <script src = "https://code.jquery.com/jquery-3.3.1.slim.min.js" 
+         integrity = "sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" 
+         crossorigin = "anonymous">
+      </script>
+      
+      <script src = "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" 
+         integrity = "sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" 
+         crossorigin = "anonymous">
+      </script>
+      
+      <script src = "https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" 
+         integrity = "sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" 
+         crossorigin = "anonymous">
+      </script>
+</body>
+</html>
